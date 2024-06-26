@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balu Gayake</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **golang**
 
 - 👨‍💻 All of my projects are available at [https://balugayake.onrender.com/](https://balugayake.onrender.com/)
 
