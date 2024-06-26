@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balu Gayake</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-- 🌱 I’m currently learning **golang**
 
 - 👨‍💻 All of my projects are available at [https://balugayake.onrender.com/](https://balugayake.onrender.com/)
 
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/balu-gayake-b73a21197/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ptw_y2ypFzIMqP5owBnNtfYPE-bcfRFk/view?usp=sharing](https://drive.google.com/file/d/1ptw_y2ypFzIMqP5owBnNtfYPE-bcfRFk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kOpRYuIqEbnASR4fAnd8l7CdbtJyhEK_/view?usp=sharing](https://drive.google.com/file/d/1kOpRYuIqEbnASR4fAnd8l7CdbtJyhEK_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
